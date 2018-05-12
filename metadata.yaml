@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36332'
     url: http://www.gutenberg.org/2009/agents/36332
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33323#Small-Gardens-and-How-to-Make-the-Most-of-Them
 gutenberg_issued: '2010-08-02'
 gutenberg_type: Text
 identifiers:
